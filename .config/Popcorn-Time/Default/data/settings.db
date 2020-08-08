@@ -1,0 +1,25 @@
+{"key":"showAdvancedSettings","value":false,"_id":"3KIzEWi8ovtGbVT3"}
+{"key":"disclaimerAccepted","value":1,"_id":"CLpSKoYoZqkI36Rr"}
+{"key":"movies_default_quality","value":"720p","_id":"MLGJT1pj81pWNnCA"}
+{"key":"os","value":"linux","_id":"NlgypNAcMNTdwPJ9"}
+{"key":"language","value":"en","_id":"OcRz6daG2u6ipxlS"}
+{"key":"lastWatchedTime","value":false,"_id":"RgLloYLiXn0vDLbo"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"SQlHQnFhB2inBhSa"}
+{"key":"version","value":"0.4.4","_id":"V2zH7nFTC31zW3OR"}
+{"key":"playerVolume","value":"1.0","_id":"WeBY40ORMp4IQByK"}
+{"key":"ipAddress","value":"192.168.0.105","_id":"bAqcfS2tiuzP6Vyg"}
+{"key":"lastWatchedTitle","value":"The Old Guard","_id":"i7DDrTwzk10AhhXq"}
+{"key":"totalDownloaded","value":null,"_id":"oOgfQSMdNw6YMqbJ"}
+{"key":"totalUploaded","value":null,"_id":"pN5zN2CujoqIP6EQ"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"t0Bi8Y8LOlo6noXK"}
+{"key":"arch","value":"x64","_id":"x8kOiofXTJN17Yfa"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.4.4","_id":"V2zH7nFTC31zW3OR"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"t0Bi8Y8LOlo6noXK"}
+{"key":"arch","value":"x64","_id":"x8kOiofXTJN17Yfa"}
+{"key":"os","value":"linux","_id":"NlgypNAcMNTdwPJ9"}
+{"key":"playerVolume","value":"1.0","_id":"WeBY40ORMp4IQByK"}
+{"key":"lastWatchedTitle","value":"Dead Poets Society","_id":"i7DDrTwzk10AhhXq"}
+{"key":"lastWatchedTime","value":-5,"_id":"RgLloYLiXn0vDLbo"}
+{"key":"totalDownloaded","value":null,"_id":"oOgfQSMdNw6YMqbJ"}
+{"key":"totalUploaded","value":null,"_id":"pN5zN2CujoqIP6EQ"}

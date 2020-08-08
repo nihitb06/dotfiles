@@ -1,0 +1,3 @@
+[submodule ".mozilla/firefox/PixelFox"]
+	path = .mozilla/firefox/PixelFox
+	url = https://github.com/dbuxy218/PixelFox.git

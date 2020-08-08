@@ -1,0 +1,26 @@
+Aug 05 22:06:56.000 [notice] Tor 0.3.5.11 opening new log file.
+Aug 05 22:06:56.674 [notice] Tor 0.3.5.11 running on Linux with Libevent 2.1.9-beta, OpenSSL 1.0.2q, Zlib 1.2.11, Liblzma N/A, and Libzstd N/A.
+Aug 05 22:06:56.685 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Aug 05 22:06:56.685 [notice] Configuration file "/nonexistent" not present, using reasonable defaults.
+Aug 05 22:06:56.700 [notice] Opening Socks listener on 127.0.0.1:9390
+Aug 05 22:06:56.700 [notice] Opened Socks listener on 127.0.0.1:9390
+Aug 05 22:06:56.700 [notice] Opening Control listener on 127.0.0.1:0
+Aug 05 22:06:56.700 [notice] Control listener listening on port 42413.
+Aug 05 22:06:56.700 [notice] Opened Control listener on 127.0.0.1:42413
+Aug 05 22:06:56.000 [notice] Bootstrapped 0%: Starting
+Aug 05 22:06:57.000 [notice] Starting with guard context "default"
+Aug 05 22:06:57.000 [notice] Bootstrapped 5%: Connecting to directory server
+Aug 05 22:06:58.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Aug 05 22:06:58.000 [notice] Bootstrapped 15%: Establishing an encrypted directory connection
+Aug 05 22:06:58.000 [notice] Bootstrapped 20%: Asking for networkstatus consensus
+Aug 05 22:06:59.000 [notice] Bootstrapped 25%: Loading networkstatus consensus
+Aug 05 22:07:01.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Aug 05 22:07:01.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Aug 05 22:07:03.000 [notice] Bootstrapped 100%: Done
+Aug 05 22:07:06.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Aug 05 22:07:14.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Aug 05 22:07:39.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Aug 05 22:08:57.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Aug 05 22:12:52.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Aug 05 22:23:55.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Aug 05 23:12:20.000 [notice] Catching signal TERM, exiting cleanly.

@@ -1,0 +1,14 @@
+2020/08/06-21:40:51.000 e97 Reusing MANIFEST /home/parzival/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/06-21:40:51.000 e97 Recovering log #94
+2020/08/06-21:40:51.004 e97 Reusing old log /home/parzival/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000094.log 
+2020/08/06-21:40:51.004 e97 Delete type=2 #92
+2020/08/06-23:31:28.246 3c24 Level-0 table #99: started
+2020/08/06-23:31:28.447 3c24 Level-0 table #99: 1087 bytes OK
+2020/08/06-23:31:28.538 3c24 Delete type=0 #94
+2020/08/06-23:31:28.538 3c24 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 1557 : 1
+2020/08/06-23:31:28.538 3c24 Compacting 1@0 + 1@1 files
+2020/08/06-23:31:28.628 3c24 Generated table #100@0: 20 keys, 640 bytes
+2020/08/06-23:31:28.628 3c24 Compacted 1@0 + 1@1 files => 640 bytes
+2020/08/06-23:31:28.797 3c24 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/06-23:31:28.797 3c24 Delete type=2 #99
+2020/08/06-23:31:28.798 3c24 Manual compaction at level-0 from '\x00\x19\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 1557 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)

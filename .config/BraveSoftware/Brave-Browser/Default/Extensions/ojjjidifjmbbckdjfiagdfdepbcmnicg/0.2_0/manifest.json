@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "jquery.min.js", "providers/youtube.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://youtube.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "jquery.min.js", "lodash.js", "providers/base.js", "providers/play-music.js" ],
+      "matches": [ "*://*.play.google.com/*", "*://play.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "jquery.min.js", "lodash.js", "providers/base.js", "providers/spotify.js" ],
+      "matches": [ "*://*.open.spotify.com/*", "*://open.spotify.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "jquery.min.js", "lodash.js", "providers/base.js", "providers/youtube-music.js" ],
+      "matches": [ "*://*.music.youtube.com/*", "*://music.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Implements the MPRIS2 interface for Chrome and Firefox",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2IHyQYDt2ncnAnsob1nFiVqZqJi/sEwLt0P1BcqPHhj9ZOV7nnfOwzgYnEmNFDED77ZwPGm1tavcNs1eUVm87AAFRUfJNJ+zvHq6pcdnz9Y1YeS5lSC8L/CW3A6qZ1qRqd/ySm8ld2oTwnkfQp6/JCiPQhbrot428QuiR/Po/iUx1BC0I7vAuQmnjk0cUGV2sw2OnZIW3pDI9giR6T3ZGOlc/E0fTobv1jP93Gc0gYf5oidaje/k1FfzHAFHpnVWr6zZbNMSOnFqCk75PHvWg3hhNPEqsvZw0OnTcnVUDdLRIAyLT62yhDZb5z0bVM3lcfLwNIrNG1hjJGCmKa6XIQIDAQAB",
+   "manifest_version": 2,
+   "name": "browser-playerctl",
+   "permissions": [ "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2"
+}
